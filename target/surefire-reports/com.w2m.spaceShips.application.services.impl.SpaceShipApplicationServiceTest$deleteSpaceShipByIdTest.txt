@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.w2m.spaceShips.application.services.impl.SpaceShipApplicationServiceTest$deleteSpaceShipByIdTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.084 s -- in com.w2m.spaceShips.application.services.impl.SpaceShipApplicationServiceTest$deleteSpaceShipByIdTest

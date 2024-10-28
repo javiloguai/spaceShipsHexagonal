@@ -1,0 +1,5 @@
+# Created at 2024-10-28T01:49:44.168
+Boot Manifest-JAR contains absolute paths in classpath 'D:\development\Workspace\spaceShipsHexagonal\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
